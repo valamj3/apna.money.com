@@ -1,2 +1,37 @@
-# apna.money.com
-भारत में लगभग 70% लोग ऐसे हैँ जो 10 से 15000/= की नौकरी करते हैं उनके बॉस या मालिक उनसे 8 से 12 घंटे की कड़ी मेहनत करवाते हैं तब जाकर उन्हें पगार (salary) देते हैं उस पैसे से वे लोग अपने घर का खर्च भी ठीक से नहीं चला पाते दोस्तों मै भी ऐसा ही था सोचता रहता था काश कोई ऐसा काम मिल जाये जिससे मेरे परिवार की सभी जरूरतें पूरी हो जाएं और मुझे जॉब भी ना छोड़नी पड़े आखिर भगवान की कृपा से वो काम मुझे मिल ही गया 3 महीने मैंने इस कंपनी में जैसे मुझे बताया गया वैसे करता गया अब मुझे यहाँ से 10000 रूपये महीना मिल रहे है और यहाँ किसी की गुलामी (नौकरी) नहीं करनी केवल दिन में 2 घंटे अपने android मोबाइल से (घर या ऑफिस कही भी बैठकर) वर्क करना होता है बस और हर महीने income दुगुनी होती जा रही है ।
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/valamj3/apna.money.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valamj3/apna.money.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
